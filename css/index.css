@@ -216,6 +216,27 @@ footer a i{
 }
 .content-container p, h2, li{
     color: white;
+    
+}
+
+.content-container p{
+    width: 500px;
+}
+
+.aboutme p{
+    width: 800px;
+    margin-left: -200px;
+}
+.aboutme h2{
+    margin-left: -200px;
+}
+
+#webdesign img{
+    margin-left: 150px;
+}
+
+.docker img{
+    padding: 50px;
 }
 
 @media screen and (min-width: 700px) {
